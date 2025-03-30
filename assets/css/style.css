@@ -243,6 +243,10 @@ ul.side-nav.fixed a {
   padding: 10px 0 12px;
 }
 
+.tool-item {
+  margin-bottom: 24px; /* Adjust to your liking */
+}
+
 ul.table-of-contents li.logo a.active, ul.table-of-contents li.logo a:hover {
   border: none;
   font-weight: 200;
